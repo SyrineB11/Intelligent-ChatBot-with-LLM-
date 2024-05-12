@@ -16,7 +16,7 @@ This repository showcases the development of an interactive ChatBot system throu
 Explore the alpaca-farm dataset provided by [Hugging Face](https://huggingface.co/datasets/tatsu-lab/alpaca_farm?row=0) for training and evaluation.
 
 ## Languages:
-Proved to support all kind of languages, tested in ENGLISH and GERMAN.
+Proved to support ENGLISH and GERMAN languages.
 
 ## Contribution:
 Contributions and feedback are welcome! Feel free to submit issues or pull requests.
