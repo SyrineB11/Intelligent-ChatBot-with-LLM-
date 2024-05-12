@@ -5,7 +5,6 @@ This repository showcases the development of an interactive ChatBot system throu
 
 ## Features:
 - **Fine-tuned LLM Model**: Leveraging the power of Llama 13B for natural language understanding and generation.
-- **Interactive Interface**: Utilizing Gradio to provide a smooth and intuitive user experience.
 - **Dataset**: Access the alpaca-farm dataset [here](https://huggingface.co/datasets/tatsu-lab/alpaca_farm?row=0).
 
 ## Usage:
